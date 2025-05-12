@@ -1,4 +1,4 @@
-import Main from "../Components/main";
+import Main from "../Components/Main";
 
 const Artists = () => {
   return <Main type="artists" />;
